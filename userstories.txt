@@ -1,1 +1,3 @@
 ECHO is on.
+1.As a kid player, I need a fun card game to play with other kids. 
+2.As a kid player, I want to play a competitive and timed online card game. 
