@@ -1,3 +1,11 @@
 ECHO is on.
 1.As a kid player, I need a fun card game to play with other kids. 
 2.As a kid player, I want to play a competitive and timed online card game. 
+3.As a kid player, I want to play a game that requires full concentration so that it empower my mental skills. 
+4.As a senior player, I need a card game that improve my memory. 
+5.As a senior player, I need a card game that I can play physically with my other friends. 
+6.As a senior player, I want a card game that have cardboard enough for card set. 
+7.As a player, I want a card game that I can play by myself. 
+8.As a player, I want a very challenging memory card game. 
+9.As a player, I need a memory card game that is very competitive and exciting at the same time. 
+10.As a player, I need to have a memory card game that I can set the timer for it. 
